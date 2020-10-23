@@ -4,3 +4,4 @@ dist
 lib
 yarn.lock
 .merlin
+.cache
