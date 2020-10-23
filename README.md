@@ -9,3 +9,17 @@ Feature
 - [ ] Explantion
 
 [WIP]
+
+## How to use
+
+### Start project
+
+`
+yarn start
+`
+
+### Build project
+
+`
+yarn build
+`
